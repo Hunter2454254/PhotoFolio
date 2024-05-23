@@ -21,7 +21,7 @@
 /* Colors */
 :root {
   --color-default: #000000;
-  --color-primary: #007bff ;
+  --color-primary: #00ffb3;
   --color-secondary: #6c757d ;
 }
 
@@ -287,7 +287,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 30px 0;
-  background-color: #6b6464 ;
+  background-color: #00ffb3 ;
 }
 
 .header .logo {
